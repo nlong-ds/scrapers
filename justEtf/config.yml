@@ -1,0 +1,7 @@
+email: 'youremail@gmail.com'
+password: 'yourpassword'
+driver_path: 'G:\My Drive\chromedriver.exe'
+pages:
+  login: 'https://www.justetf.com/de-en/login.html'
+  comparison: 'https://www.justetf.com/de-en/find-etf.html?groupField=none&tab=return&sortField=fiveYearReturnEUR&sortOrder=desc'
+filters_indexes: [2,8,9,10,12,13,31]

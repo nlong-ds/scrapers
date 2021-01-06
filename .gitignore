@@ -1,0 +1,8 @@
+# Temporary files
+.idea
+__pycache__
+
+# Don't ignore requirement and environment files
+!requirements.txt
+!environment.yml
+!variables.yml
